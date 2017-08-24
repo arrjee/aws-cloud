@@ -3,6 +3,7 @@
 # help me
 # This is a python list program, very useful for new biewies
 # author of this program is raju singh
+# author email added: raju.singh@microsoft.com
 /usr/bin/python
 fam = [1,2,3,4,5,6]
 print(fam)
