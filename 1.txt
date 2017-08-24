@@ -1,6 +1,6 @@
 # this is my first file in github
 # i am learning github
-# help me
+# help me to create a tutorial on python
 # This is a python list program, very useful for new biewies
 # author of this program is raju singh
 # author email added: raju.singh@microsoft.com
